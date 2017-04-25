@@ -1,0 +1,10 @@
+c:\users\twin\documents\visual studio 2015\Projects\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Twin\documents\visual studio 2015\Projects\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Twin\documents\visual studio 2015\Projects\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Twin\documents\visual studio 2015\Projects\QLKS\QLKS\obj\Debug\QLKS.csprojResolveAssemblyReference.cache
+C:\Users\Twin\documents\visual studio 2015\Projects\QLKS\QLKS\obj\Debug\QLKS.Views.Login.resources
+C:\Users\Twin\documents\visual studio 2015\Projects\QLKS\QLKS\obj\Debug\QLKS.Menu.resources
+C:\Users\Twin\documents\visual studio 2015\Projects\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Twin\documents\visual studio 2015\Projects\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.Cache
+C:\Users\Twin\documents\visual studio 2015\Projects\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Twin\documents\visual studio 2015\Projects\QLKS\QLKS\obj\Debug\QLKS.pdb
