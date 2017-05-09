@@ -1,0 +1,28 @@
+create PROC ThemKieuPhong
+(    
+     @Ten NVARCHAR(50),
+	 @Gia int
+)
+AS
+INSERT INTO KIEUPHONG(TENKIEUPHONG, DONGIA)
+VALUES(@Ten,@Gia);
+
+create PROC  SuaKieuPhong
+(
+     @Ma int,
+     @Ten NVARCHAR(50),
+	 @Gia int
+)
+AS
+UPDATE KIEUPHONG
+SET TENKIEUPHONG = @Ten,
+DONGIA = @Gia
+WHERE IDKIEUPHONG = @Ma;
+
+CREATE PROC XoaKieuPhong
+(
+     @Ma int
+)
+AS
+DELETE KIEUPHONG
+WHERE IDKIEUPHONG= @Ma;
